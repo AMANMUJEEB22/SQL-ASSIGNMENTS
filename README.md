@@ -7,6 +7,7 @@ CREATE,ALTER,DROP,TRUNCATE,RENAME
 You worked on creating and managing a database named Sales with a table called Orders, applying constraints like Primary Key, Unique, and Not Null. You added a new column, renamed the table to sales_orders, and inserted 10 rows of data. After retrieving specific data and updating a product name, you deleted the sales_orders table. This project demonstrated your SQL skills in database creation, manipulation, and management.
 Primary Key,Unique,Not Null
 
+# 3.DML COMMANDS
 
 
 
